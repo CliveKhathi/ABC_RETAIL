@@ -39,7 +39,7 @@ namespace ABC_Retail
             }
 
             // Set UNC path for centralized logging (Azure File Share)
-            Environment.SetEnvironmentVariable("LogBasePath", @"\\st10118454.file.core.windows.net\abc-retail-logs");
+            Environment.SetEnvironmentVariable("LogBasePath", @"\\cartea.file.core.windows.net\abclogs");
 
 
             // Register BlobServiceClient for DI
