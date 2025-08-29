@@ -1,6 +1,6 @@
 # ABC Retail 
 
-ABC Retail is a lightweight, modern ecommerce web application built with ASP.NET Core MVC and Azure Table Storage. It’s designed to help small businesses, NGOs, and community groups launch a digital storefront with minimal overhead and maximum scalability.
+ABC Retail is a lightweight, modern ecommerce web application built with ASP.NET Core MVC and Azure Table Storage. Itâ€™s designed to help small businesses, NGOs, and community groups launch a digital storefront with minimal overhead and maximum scalability.
 
 ---
 
@@ -31,7 +31,7 @@ ABC Retail is a lightweight, modern ecommerce web application built with ASP.NET
 ## Local Setup Instructions
 
 ### 1. **Clone the Repository**
-git clone https://github.com/yourusername/ABC_Retail.git
+https://github.com/CliveKhathi/ABC_RETAIL.git
 cd ABC_Retail
 
 ### 2. **Configure environment variables**
